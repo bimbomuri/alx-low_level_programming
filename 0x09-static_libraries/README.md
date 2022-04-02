@@ -1,1 +1,1 @@
-	learnind C
+Introduction to C - Static libraries
